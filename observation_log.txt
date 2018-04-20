@@ -1,0 +1,452 @@
+2018/04/17 17:40:27 Distance between  0 --> 1 0.021157573169973243
+2018/04/17 17:40:27 time difference between 0 --> 1 5
+2018/04/17 17:40:27 Distance between  1 --> 2 0.014382134088338105
+2018/04/17 17:40:27 time difference between 1 --> 2 5
+2018/04/17 17:40:27 Distance between  2 --> 3 0.010225739152554647
+2018/04/17 17:40:27 time difference between 2 --> 3 5
+2018/04/17 17:40:27 Distance between  3 --> 4 0.020441996279678465
+2018/04/17 17:40:27 time difference between 3 --> 4 5
+2018/04/17 17:40:27 Distance between  4 --> 5 0.022810938693386906
+2018/04/17 17:40:27 time difference between 4 --> 5 5
+2018/04/17 17:40:27 Distance between  5 --> 6 0.015111616942409478
+2018/04/17 17:40:27 time difference between 5 --> 6 5
+2018/04/17 17:40:27 Distance between  6 --> 7 0.002999991603416685
+2018/04/17 17:40:27 time difference between 6 --> 7 5
+2018/04/17 17:40:27 Distance between  7 --> 8 0.00071606719751105
+2018/04/17 17:40:27 time difference between 7 --> 8 5
+2018/04/17 17:40:27 Distance between  8 --> 9 0.015757202368639645
+2018/04/17 17:40:27 time difference between 8 --> 9 5
+2018/04/17 17:40:27 Distance between  9 --> 10 0.02472169887544773
+2018/04/17 17:40:27 time difference between 9 --> 10 5
+2018/04/17 17:40:27 Distance between  10 --> 11 0.02715180220786695
+2018/04/17 17:40:27 time difference between 10 --> 11 5
+2018/04/17 17:40:27 Distance between  11 --> 12 0.017912649158009608
+2018/04/17 17:40:27 time difference between 11 --> 12 5
+2018/04/17 17:40:27 Distance between  12 --> 13 0.002835625383511897
+2018/04/17 17:40:27 time difference between 12 --> 13 5
+2018/04/17 17:40:27 Distance between  13 --> 14 0.014047710884076636
+2018/04/17 17:40:27 time difference between 13 --> 14 5
+2018/04/17 17:40:27 Distance between  14 --> 15 0.014065405336932013
+2018/04/17 17:40:27 time difference between 14 --> 15 5
+2018/04/17 17:40:27 Distance between  15 --> 16 0.016432717448119583
+2018/04/17 17:40:27 time difference between 15 --> 16 5
+2018/04/17 17:40:27 Distance between  16 --> 17 0.019909945864470147
+2018/04/17 17:40:27 time difference between 16 --> 17 5
+2018/04/17 17:40:27 Distance between  17 --> 18 0.038677523317303675
+2018/04/17 17:40:27 time difference between 17 --> 18 10
+2018/04/17 17:40:27 Distance between  18 --> 19 0.01529935025878526
+2018/04/17 17:40:27 time difference between 18 --> 19 5
+2018/04/17 17:40:27 Distance between  19 --> 20 0.01629443824964205
+2018/04/17 17:40:27 time difference between 19 --> 20 5
+2018/04/17 17:40:27 Distance between  20 --> 21 0.025372761154914603
+2018/04/17 17:40:27 time difference between 20 --> 21 5
+2018/04/17 17:40:27 Distance between  21 --> 22 0.021366636580906984
+2018/04/17 17:40:27 time difference between 21 --> 22 5
+2018/04/17 17:40:27 Distance between  22 --> 23 0.0103716356681266
+2018/04/17 17:40:27 time difference between 22 --> 23 5
+2018/04/17 17:40:27 Distance between  23 --> 24 0
+2018/04/17 17:40:27 time difference between 23 --> 24 5
+2018/04/17 17:40:27 Distance between  24 --> 25 0
+2018/04/17 17:40:27 time difference between 24 --> 25 12
+2018/04/17 17:40:27 Distance between  25 --> 26 0
+2018/04/17 17:40:27 time difference between 25 --> 26 2
+2018/04/17 17:40:27 Distance between  26 --> 27 0
+2018/04/17 17:40:27 time difference between 26 --> 27 29
+2018/04/17 17:40:27 Distance between  27 --> 28 0
+2018/04/17 17:40:27 time difference between 27 --> 28 17
+2018/04/17 17:40:27 Distance between  28 --> 29 0
+2018/04/17 17:40:27 time difference between 28 --> 29 12
+2018/04/17 17:40:27 Distance between  29 --> 30 0
+2018/04/17 17:40:27 time difference between 29 --> 30 12
+2018/04/17 17:40:27 Distance between  30 --> 31 0
+2018/04/17 17:40:27 time difference between 30 --> 31 5
+2018/04/17 17:40:27 Distance between  31 --> 32 0
+2018/04/17 17:40:27 time difference between 31 --> 32 11
+2018/04/17 17:40:27 Distance between  32 --> 33 0
+2018/04/17 17:40:27 time difference between 32 --> 33 10
+2018/04/17 17:40:27 Distance between  33 --> 34 0
+2018/04/17 17:40:27 time difference between 33 --> 34 10
+2018/04/17 17:40:27 Distance between  34 --> 35 0
+2018/04/17 17:40:27 time difference between 34 --> 35 21
+2018/04/17 17:40:27 Distance between  35 --> 36 0
+2018/04/17 17:40:27 time difference between 35 --> 36 9
+2018/04/17 17:40:27 Distance between  36 --> 37 0
+2018/04/17 17:40:27 time difference between 36 --> 37 9
+2018/04/17 17:40:27 Distance between  37 --> 38 0
+2018/04/17 17:40:27 time difference between 37 --> 38 10
+2018/04/17 17:40:27 Distance between  38 --> 39 0
+2018/04/17 17:40:27 time difference between 38 --> 39 6
+2018/04/17 17:40:27 Distance between  39 --> 40 0
+2018/04/17 17:40:27 time difference between 39 --> 40 10
+2018/04/17 17:40:27 Distance between  40 --> 41 0
+2018/04/17 17:40:27 time difference between 40 --> 41 7
+2018/04/17 17:40:27 Distance between  41 --> 42 0
+2018/04/17 17:40:27 time difference between 41 --> 42 10
+2018/04/17 17:40:27 Distance between  42 --> 43 0
+2018/04/17 17:40:27 time difference between 42 --> 43 5
+2018/04/17 17:40:27 Distance between  43 --> 44 0
+2018/04/17 17:40:27 time difference between 43 --> 44 15
+2018/04/17 17:40:27 Distance between  44 --> 45 0
+2018/04/17 17:40:27 time difference between 44 --> 45 9
+2018/04/17 17:40:27 Distance between  45 --> 46 0
+2018/04/17 17:40:27 time difference between 45 --> 46 21
+2018/04/17 17:40:27 Distance between  46 --> 47 0
+2018/04/17 17:40:27 time difference between 46 --> 47 8
+2018/04/17 17:40:27 Distance between  47 --> 48 0
+2018/04/17 17:40:27 time difference between 47 --> 48 10
+2018/04/17 17:40:27 Distance between  48 --> 49 0.00838211254980592
+2018/04/17 17:40:27 time difference between 48 --> 49 13
+2018/04/17 17:40:27 Distance between  49 --> 50 0.017379272873641383
+2018/04/17 17:40:27 time difference between 49 --> 50 4
+2018/04/17 17:40:27 Distance between  50 --> 51 0.02127372666629712
+2018/04/17 17:40:27 time difference between 50 --> 51 5
+2018/04/17 17:40:27 Distance between  51 --> 52 0.01300800663068713
+2018/04/17 17:40:27 time difference between 51 --> 52 6
+2018/04/17 17:40:27 Distance between  52 --> 53 0.00039122930300672376
+2018/04/17 17:40:27 time difference between 52 --> 53 5
+2018/04/17 17:40:27 Distance between  53 --> 54 0.013542789100831287
+2018/04/17 17:40:27 time difference between 53 --> 54 6
+2018/04/17 17:40:27 Distance between  54 --> 55 0.027152835675804843
+2018/04/17 17:40:27 time difference between 54 --> 55 5
+2018/04/17 17:40:27 Distance between  55 --> 56 0.034148215407130755
+2018/04/17 17:40:27 time difference between 55 --> 56 5
+2018/04/17 17:40:27 Distance between  56 --> 57 0.06046632089900694
+2018/04/17 17:40:27 time difference between 56 --> 57 10
+2018/04/17 17:40:27 Distance between  57 --> 58 0.006739485448871263
+2018/04/17 17:40:27 time difference between 57 --> 58 6
+2018/04/17 17:40:27 Distance between  58 --> 59 NaN
+2018/04/17 17:40:27 time difference between 58 --> 59 6
+2018/04/17 17:40:27 Distance between  59 --> 60 NaN
+2018/04/17 17:40:27 time difference between 59 --> 60 14
+2018/04/17 17:40:27 Distance between  60 --> 61 0.014162464752204285
+2018/04/17 17:40:27 time difference between 60 --> 61 8
+2018/04/17 17:40:27 Distance between  61 --> 62 0.02284474300094297
+2018/04/17 17:40:27 time difference between 61 --> 62 5
+2018/04/17 17:40:27 Distance between  62 --> 63 0.021017790732336006
+2018/04/17 17:40:27 time difference between 62 --> 63 5
+2018/04/17 17:40:27 Distance between  63 --> 64 0.009540568624384349
+2018/04/17 17:40:27 time difference between 63 --> 64 4
+2018/04/17 17:40:27 Distance between  64 --> 65 0.021296797496841435
+2018/04/17 17:40:27 time difference between 64 --> 65 5
+2018/04/17 17:40:27 Distance between  65 --> 66 0.028106043119056734
+2018/04/17 17:40:27 time difference between 65 --> 66 6
+2018/04/17 17:40:27 Distance between  66 --> 67 0.022032787187455938
+2018/04/17 17:40:27 time difference between 66 --> 67 4
+2018/04/17 17:40:27 Distance between  67 --> 68 0.028051850375754306
+2018/04/17 17:40:27 time difference between 67 --> 68 5
+2018/04/17 17:40:27 Distance between  68 --> 69 0.015235857496944782
+2018/04/17 17:40:27 time difference between 68 --> 69 6
+2018/04/17 17:40:27 Distance between  69 --> 70 0.0021116720179227277
+2018/04/17 17:40:27 time difference between 69 --> 70 4
+2018/04/17 17:40:27 Distance between  70 --> 71 0.004786233909218285
+2018/04/17 17:40:27 time difference between 70 --> 71 5
+2018/04/17 17:40:27 Distance between  71 --> 72 0.014777734286524957
+2018/04/17 17:40:27 time difference between 71 --> 72 5
+2018/04/17 17:40:27 Distance between  72 --> 73 0.010656002289555211
+2018/04/17 17:40:27 time difference between 72 --> 73 5
+2018/04/17 17:40:27 Distance between  73 --> 74 1.1216476684300387
+2018/04/17 17:40:27 time difference between 73 --> 74 6
+2018/04/17 17:40:27 Distance between  74 --> 75 1.0748753030587195
+2018/04/17 17:40:27 time difference between 74 --> 75 5
+2018/04/17 17:40:27 Distance between  75 --> 76 0.019213700864391003
+2018/04/17 17:40:27 time difference between 75 --> 76 4
+2018/04/17 17:40:27 Distance between  76 --> 77 0.02160587219877219
+2018/04/17 17:40:27 time difference between 76 --> 77 5
+2018/04/17 17:40:27 Distance between  77 --> 78 0.03336194358771272
+2018/04/17 17:40:27 time difference between 77 --> 78 6
+2018/04/17 17:40:27 Distance between  78 --> 79 0.02489122460779203
+2018/04/17 17:40:27 time difference between 78 --> 79 5
+2018/04/17 17:40:27 Distance between  79 --> 80 0.02107324602159355
+2018/04/17 17:40:27 time difference between 79 --> 80 4
+2018/04/17 17:40:27 Distance between  80 --> 81 0.03366072901885098
+2018/04/17 17:40:27 time difference between 80 --> 81 5
+2018/04/17 17:40:27 Distance between  81 --> 82 0.02499084677307828
+2018/04/17 17:40:27 time difference between 81 --> 82 5
+2018/04/17 17:40:27 Distance between  82 --> 83 0.01993382726996784
+2018/04/17 17:40:27 time difference between 82 --> 83 5
+2018/04/17 17:40:27 Distance between  83 --> 84 0.021583899999526923
+2018/04/17 17:40:27 time difference between 83 --> 84 6
+2018/04/17 17:40:27 Distance between  84 --> 85 0.009567803035609557
+2018/04/17 17:40:27 time difference between 84 --> 85 4
+2018/04/17 17:40:27 Distance between  85 --> 86 0.010392030285142573
+2018/04/17 17:40:27 time difference between 85 --> 86 6
+2018/04/17 17:40:27 Distance between  86 --> 87 0.005957314601165886
+2018/04/17 17:40:27 time difference between 86 --> 87 4
+2018/04/17 17:40:27 Distance between  87 --> 88 0.0018585107740785034
+2018/04/17 17:40:27 time difference between 87 --> 88 6
+2018/04/17 17:40:27 Distance between  88 --> 89 0.0010076211784202371
+2018/04/17 17:40:27 time difference between 88 --> 89 4
+2018/04/17 17:40:27 Distance between  89 --> 90 0.0021882044016883206
+2018/04/17 17:40:27 time difference between 89 --> 90 5
+2018/04/17 17:40:27 Distance between  90 --> 91 0
+2018/04/17 17:40:27 time difference between 90 --> 91 5
+2018/04/17 17:40:27 Distance between  91 --> 92 1.1120220149147535
+2018/04/17 17:40:27 time difference between 91 --> 92 10
+2018/04/17 17:40:27 Distance between  92 --> 93 1.1107921549307922
+2018/04/17 17:40:27 time difference between 92 --> 93 6
+2018/04/17 17:40:27 Distance between  93 --> 94 0.0032984907363300398
+2018/04/17 17:40:27 time difference between 93 --> 94 5
+2018/04/17 17:40:27 Distance between  94 --> 95 0.013045214403391237
+2018/04/17 17:40:27 time difference between 94 --> 95 5
+2018/04/17 17:40:27 Distance between  95 --> 96 0.011609582628263504
+2018/04/17 17:40:27 time difference between 95 --> 96 5
+2018/04/17 17:40:27 Distance between  96 --> 97 0.010322202912599776
+2018/04/17 17:40:27 time difference between 96 --> 97 5
+2018/04/17 17:40:27 Distance between  97 --> 98 0.03324091004488816
+2018/04/17 17:40:27 time difference between 97 --> 98 5
+2018/04/17 17:40:27 Distance between  98 --> 99 0.03288972089906084
+2018/04/17 17:40:27 time difference between 98 --> 99 5
+2018/04/17 17:40:27 Distance between  99 --> 100 0.014618405638031517
+2018/04/17 17:40:27 time difference between 99 --> 100 5
+2018/04/17 17:40:27 Distance between  100 --> 101 0.0006144500852226509
+2018/04/17 17:40:27 time difference between 100 --> 101 5
+2018/04/17 17:40:27 Distance between  101 --> 102 0.0001515224575996399
+2018/04/17 17:40:27 time difference between 101 --> 102 5
+2018/04/17 17:40:27 Distance between  102 --> 103 0.0006348692527091693
+2018/04/17 17:40:27 time difference between 102 --> 103 12
+2018/04/17 17:40:27 Distance between  103 --> 104 0
+2018/04/17 17:40:27 time difference between 103 --> 104 5
+2018/04/17 17:40:27 Distance between  104 --> 105 0.01919284462928772
+2018/04/17 17:40:27 time difference between 104 --> 105 7
+2018/04/17 17:40:27 Distance between  105 --> 106 0.026652834269718206
+2018/04/17 17:40:27 time difference between 105 --> 106 5
+2018/04/17 17:40:27 Distance between  106 --> 107 0.012181836007450375
+2018/04/17 17:40:27 time difference between 106 --> 107 4
+2018/04/17 17:40:27 Distance between  107 --> 108 0.0024650550899828483
+2018/04/17 17:40:27 time difference between 107 --> 108 6
+2018/04/17 17:40:27 Distance between  108 --> 109 0.0011715123971455244
+2018/04/17 17:40:27 time difference between 108 --> 109 5
+2018/04/17 17:40:27 Distance between  109 --> 110 0.012291907540142977
+2018/04/17 17:40:27 time difference between 109 --> 110 5
+2018/04/17 17:40:27 Distance between  110 --> 111 0.017352023004350126
+2018/04/17 17:40:27 time difference between 110 --> 111 5
+2018/04/17 17:40:27 Distance between  111 --> 112 0.01840192265873175
+2018/04/17 17:40:27 time difference between 111 --> 112 4
+2018/04/17 17:40:27 Distance between  112 --> 113 0.021043142537164106
+2018/04/17 17:40:27 time difference between 112 --> 113 6
+2018/04/17 17:40:27 Distance between  113 --> 114 0.024228225651718005
+2018/04/17 17:40:27 time difference between 113 --> 114 5
+2018/04/17 17:40:27 Distance between  114 --> 115 0.01985650916502535
+2018/04/17 17:40:27 time difference between 114 --> 115 4
+2018/04/17 17:40:27 Distance between  115 --> 116 0.023519086161980396
+2018/04/17 17:40:27 time difference between 115 --> 116 5
+2018/04/17 17:40:27 Distance between  116 --> 117 0.02604502143732279
+2018/04/17 17:40:27 time difference between 116 --> 117 6
+2018/04/17 17:40:27 Distance between  117 --> 118 0.03831155109434814
+2018/04/17 17:40:27 time difference between 117 --> 118 5
+2018/04/17 17:40:27 Distance between  118 --> 119 0.029174795712723745
+2018/04/17 17:40:27 time difference between 118 --> 119 4
+2018/04/17 17:40:27 Distance between  119 --> 120 0.05339685230459179
+2018/04/17 17:40:27 time difference between 119 --> 120 6
+2018/04/17 17:40:27 Distance between  120 --> 121 0.04815485521822516
+2018/04/17 17:40:27 time difference between 120 --> 121 5
+2018/04/17 17:40:27 Distance between  121 --> 122 0.04521111235916797
+2018/04/17 17:40:27 time difference between 121 --> 122 5
+2018/04/17 17:40:27 Distance between  122 --> 123 0.03358098365434392
+2018/04/17 17:40:27 time difference between 122 --> 123 4
+2018/04/17 17:40:27 Distance between  123 --> 124 0.032299724787938744
+2018/04/17 17:40:27 time difference between 123 --> 124 6
+2018/04/17 17:40:27 Distance between  124 --> 125 0.013310423570890517
+2018/04/17 17:40:27 time difference between 124 --> 125 5
+2018/04/17 17:40:27 Distance between  125 --> 126 0.0070894233011679075
+2018/04/17 17:40:27 time difference between 125 --> 126 4
+2018/04/17 17:40:27 Distance between  126 --> 127 0.014081175460384898
+2018/04/17 17:40:27 time difference between 126 --> 127 6
+2018/04/17 17:40:27 Distance between  127 --> 128 0.020120118353071148
+2018/04/17 17:40:27 time difference between 127 --> 128 5
+2018/04/17 17:40:27 Distance between  128 --> 129 0.017317660999213502
+2018/04/17 17:40:27 time difference between 128 --> 129 4
+2018/04/17 17:40:27 Distance between  129 --> 130 0.019162982106748272
+2018/04/17 17:40:27 time difference between 129 --> 130 5
+2018/04/17 17:40:27 Distance between  130 --> 131 0.014741092363030672
+2018/04/17 17:40:27 time difference between 130 --> 131 6
+2018/04/17 17:40:27 Distance between  131 --> 132 0.0035998765439759772
+2018/04/17 17:40:27 time difference between 131 --> 132 5
+2018/04/17 17:40:27 Distance between  132 --> 133 0.00746366671462706
+2018/04/17 17:40:27 time difference between 132 --> 133 5
+2018/04/17 17:40:27 Distance between  133 --> 134 0.581213739381933
+2018/04/17 17:40:27 time difference between 133 --> 134 5
+2018/04/17 17:40:27 Distance between  134 --> 135 0.5686916095604017
+2018/04/17 17:40:27 time difference between 134 --> 135 4
+2018/04/17 17:40:27 Distance between  135 --> 136 0.0017670403223462028
+2018/04/17 17:40:27 time difference between 135 --> 136 10
+2018/04/17 17:40:27 Distance between  136 --> 137 0.001724666097291827
+2018/04/17 17:40:27 time difference between 136 --> 137 3
+2018/04/17 17:40:27 Distance between  137 --> 138 0.06559987240054144
+2018/04/17 17:40:27 time difference between 137 --> 138 61
+2018/04/17 17:40:27 Distance between  138 --> 139 0.04191406250440455
+2018/04/17 17:40:27 time difference between 138 --> 139 15
+2018/04/17 17:40:27 Distance between  139 --> 140 0.010252895227307546
+2018/04/17 17:40:27 time difference between 139 --> 140 3
+2018/04/17 17:40:27 Distance between  140 --> 141 0.08420871847523159
+2018/04/17 17:40:27 time difference between 140 --> 141 34
+2018/04/17 17:40:27 Distance between  141 --> 142 0.03338533354201145
+2018/04/17 17:40:27 time difference between 141 --> 142 40
+2018/04/17 17:40:27 Distance between  142 --> 143 0.008590727983893265
+2018/04/17 17:40:27 time difference between 142 --> 143 2
+2018/04/17 17:40:27 Distance between  143 --> 144 0.030239477572699403
+2018/04/17 17:40:27 time difference between 143 --> 144 10
+2018/04/17 17:40:27 Distance between  144 --> 145 0.02509261510181493
+2018/04/17 17:40:27 time difference between 144 --> 145 7
+2018/04/17 17:40:27 Distance between  145 --> 146 0.015416370713356553
+2018/04/17 17:40:27 time difference between 145 --> 146 13
+2018/04/17 17:40:27 Distance between  146 --> 147 0.0057292055169584355
+2018/04/17 17:40:27 time difference between 146 --> 147 3
+2018/04/17 17:40:27 Distance between  147 --> 148 0.06695083035462568
+2018/04/17 17:40:27 time difference between 147 --> 148 37
+2018/04/17 17:40:27 Distance between  148 --> 149 0.0655828375229458
+2018/04/17 17:40:27 time difference between 148 --> 149 10
+2018/04/17 17:40:27 Distance between  149 --> 150 0.012883765667479063
+2018/04/17 17:40:27 time difference between 149 --> 150 2
+2018/04/17 17:40:27 Distance between  150 --> 151 0.08286122118467709
+2018/04/17 17:40:27 time difference between 150 --> 151 13
+2018/04/17 17:40:27 Distance between  151 --> 152 0.012891386475225919
+2018/04/17 17:40:27 time difference between 151 --> 152 10
+2018/04/17 17:40:27 Distance between  152 --> 153 NaN
+2018/04/17 17:40:27 time difference between 152 --> 153 2
+2018/04/17 17:40:27 Distance between  153 --> 154 NaN
+2018/04/17 17:40:27 time difference between 153 --> 154 6
+2018/04/17 17:40:27 Distance between  154 --> 155 0.11272078246548423
+2018/04/17 17:40:27 time difference between 154 --> 155 30
+2018/04/17 17:40:27 Distance between  155 --> 156 0.01863253944179688
+2018/04/17 17:40:27 time difference between 155 --> 156 7
+2018/04/17 17:40:27 Distance between  156 --> 157 0.005746322591967945
+2018/04/17 17:40:27 time difference between 156 --> 157 8
+2018/04/17 17:40:27 Distance between  157 --> 158 0
+2018/04/17 17:40:27 time difference between 157 --> 158 2
+2018/04/17 17:40:27 Distance between  158 --> 159 0
+2018/04/17 17:40:27 time difference between 158 --> 159 7
+2018/04/17 17:40:27 Distance between  159 --> 160 0
+2018/04/17 17:40:27 time difference between 159 --> 160 24
+2018/04/17 17:40:27 Distance between  160 --> 161 0
+2018/04/17 17:40:27 time difference between 160 --> 161 11
+2018/04/17 17:40:27 Distance between  161 --> 162 0.01575736426251051
+2018/04/17 17:40:27 time difference between 161 --> 162 11
+2018/04/17 17:40:27 Distance between  162 --> 163 0
+2018/04/17 17:40:27 time difference between 162 --> 163 3
+2018/04/17 17:40:27 Distance between  163 --> 164 0
+2018/04/17 17:40:27 time difference between 163 --> 164 15
+2018/04/17 17:40:27 Distance between  164 --> 165 0
+2018/04/17 17:40:27 time difference between 164 --> 165 20
+2018/04/17 17:40:27 Distance between  165 --> 166 0
+2018/04/17 17:40:27 time difference between 165 --> 166 40
+2018/04/17 17:40:27 Distance between  166 --> 167 0.005945741579344466
+2018/04/17 17:40:27 time difference between 166 --> 167 3
+2018/04/17 17:40:27 Distance between  167 --> 168 0.019806277299208475
+2018/04/17 17:40:27 time difference between 167 --> 168 8
+2018/04/17 17:40:27 Distance between  168 --> 169 0.08548400563385261
+2018/04/17 17:40:27 time difference between 168 --> 169 22
+2018/04/17 17:40:27 Distance between  169 --> 170 0.009699278530273747
+2018/04/17 17:40:27 time difference between 169 --> 170 2
+2018/04/17 17:40:27 Distance between  170 --> 171 0.03495855120039393
+2018/04/17 17:40:27 time difference between 170 --> 171 6
+2018/04/17 17:40:27 Distance between  171 --> 172 0.06464843759308259
+2018/04/17 17:40:27 time difference between 171 --> 172 10
+2018/04/17 17:40:27 Distance between  172 --> 173 0.020063236555034725
+2018/04/17 17:40:27 time difference between 172 --> 173 3
+2018/04/17 17:40:27 Distance between  173 --> 174 0.07886219500065972
+2018/04/17 17:40:27 time difference between 173 --> 174 12
+2018/04/17 17:40:27 Distance between  174 --> 175 0.014068306915802187
+2018/04/17 17:40:27 time difference between 174 --> 175 3
+2018/04/17 17:40:27 Distance between  175 --> 176 0.053165360967083686
+2018/04/17 17:40:27 time difference between 175 --> 176 12
+2018/04/17 17:40:27 Distance between  176 --> 177 1.175258109296273
+2018/04/17 17:40:27 time difference between 176 --> 177 15
+2018/04/17 17:40:27 Distance between  177 --> 178 1.3050560892522998
+2018/04/17 17:40:27 time difference between 177 --> 178 15
+2018/04/17 17:40:27 Distance between  178 --> 179 0.8015812582200489
+2018/04/17 17:40:27 time difference between 178 --> 179 10
+2018/04/17 17:40:27 Distance between  179 --> 180 0.8059397164892932
+2018/04/17 17:40:27 time difference between 179 --> 180 2
+2018/04/17 17:40:27 Distance between  180 --> 181 0.005796710509065162
+2018/04/17 17:40:27 time difference between 180 --> 181 19
+2018/04/17 17:40:27 Distance between  181 --> 182 0.00655352875792814
+2018/04/17 17:40:27 time difference between 181 --> 182 5
+2018/04/17 17:40:27 Distance between  182 --> 183 0.005213292558043592
+2018/04/17 17:40:27 time difference between 182 --> 183 2
+2018/04/17 17:40:27 Distance between  183 --> 184 0.03387196339658605
+2018/04/17 17:40:27 time difference between 183 --> 184 9
+2018/04/17 17:40:27 Distance between  184 --> 185 0.014327398967039051
+2018/04/17 17:40:27 time difference between 184 --> 185 4
+2018/04/17 17:40:27 Distance between  185 --> 186 0.08592678717093516
+2018/04/17 17:40:27 time difference between 185 --> 186 21
+2018/04/17 17:40:27 Distance between  186 --> 187 0.09950572072008979
+2018/04/17 17:40:27 time difference between 186 --> 187 14
+2018/04/17 17:40:27 Distance between  187 --> 188 0.037296418405190046
+2018/04/17 17:40:27 time difference between 187 --> 188 4
+2018/04/17 17:40:27 Distance between  188 --> 189 0.035868565944136566
+2018/04/17 17:40:27 time difference between 188 --> 189 4
+2018/04/17 17:40:27 Distance between  189 --> 190 0.06625188424133188
+2018/04/17 17:40:27 time difference between 189 --> 190 8
+2018/04/17 17:40:27 Distance between  190 --> 191 0.042348802622916515
+2018/04/17 17:40:27 time difference between 190 --> 191 9
+2018/04/17 17:40:27 Distance between  191 --> 192 0.15725794278000593
+2018/04/17 17:40:27 time difference between 191 --> 192 2
+2018/04/17 17:40:27 Distance between  192 --> 193 0.12329579752658004
+2018/04/17 17:40:27 time difference between 192 --> 193 5
+2018/04/17 17:40:27 Distance between  193 --> 194 0.2505823944038499
+2018/04/17 17:40:27 time difference between 193 --> 194 18
+2018/04/17 17:40:27 Distance between  194 --> 195 0.24596836057927451
+2018/04/17 17:40:27 time difference between 194 --> 195 10
+2018/04/17 17:40:27 Distance between  195 --> 196 0.005861697838375535
+2018/04/17 17:40:27 time difference between 195 --> 196 14
+2018/04/17 17:40:27 Distance between  196 --> 197 0.0086076374222821
+2018/04/17 17:40:27 time difference between 196 --> 197 4
+2018/04/17 17:40:27 Distance between  197 --> 198 0.048258416043649
+2018/04/17 17:40:27 time difference between 197 --> 198 11
+2018/04/17 17:40:27 Distance between  198 --> 199 0.05681402971907035
+2018/04/17 17:40:27 time difference between 198 --> 199 10
+2018/04/17 17:40:27 Distance between  199 --> 200 0.04649896464956371
+2018/04/17 17:40:27 time difference between 199 --> 200 10
+2018/04/17 17:40:27 Distance between  200 --> 201 0.015334242397540665
+2018/04/17 17:40:27 time difference between 200 --> 201 3
+2018/04/17 17:40:27 Distance between  201 --> 202 0.04111023916599421
+2018/04/17 17:40:27 time difference between 201 --> 202 12
+2018/04/17 17:40:27 Distance between  202 --> 203 0.01069519120018625
+2018/04/17 17:40:27 time difference between 202 --> 203 3
+2018/04/17 17:40:27 Distance between  203 --> 204 0.013884139480763724
+2018/04/17 17:40:27 time difference between 203 --> 204 6
+2018/04/17 17:40:27 Distance between  204 --> 205 0.026947719914304225
+2018/04/17 17:40:27 time difference between 204 --> 205 5
+2018/04/17 17:40:27 Distance between  205 --> 206 0.011606505961337943
+2018/04/17 17:40:27 time difference between 205 --> 206 3
+2018/04/17 17:40:27 Distance between  206 --> 207 0.021498278636439827
+2018/04/17 17:40:27 time difference between 206 --> 207 5
+2018/04/17 17:40:27 Distance between  207 --> 208 0.016415321421210827
+2018/04/17 17:40:27 time difference between 207 --> 208 6
+2018/04/17 17:40:27 Distance between  208 --> 209 0
+2018/04/17 17:40:27 time difference between 208 --> 209 6
+2018/04/17 17:40:27 Distance between  209 --> 210 0.09797345718579109
+2018/04/17 17:40:27 time difference between 209 --> 210 48
+2018/04/17 17:40:27 Distance between  210 --> 211 0.03683467694461495
+2018/04/17 17:40:27 time difference between 210 --> 211 11
+2018/04/17 17:40:27 Distance between  211 --> 212 0.024002908826793123
+2018/04/17 17:40:27 time difference between 211 --> 212 6
+2018/04/17 17:40:27 Distance between  212 --> 213 0.01344258420581701
+2018/04/17 17:40:27 time difference between 212 --> 213 4
+2018/04/17 17:40:27 Distance between  213 --> 214 0.011145343979924283
+2018/04/17 17:40:27 time difference between 213 --> 214 5
+2018/04/17 17:40:27 Distance between  214 --> 215 7.142837179663353e-05
+2018/04/17 17:40:27 time difference between 214 --> 215 3
+2018/04/17 17:40:27 Distance between  215 --> 216 0.07401249516051067
+2018/04/17 17:40:27 time difference between 215 --> 216 50
+2018/04/17 17:40:27 Distance between  216 --> 217 0.0298217514337783
+2018/04/17 17:40:27 time difference between 216 --> 217 10
+2018/04/17 17:40:27 Distance between  217 --> 218 0.008980111677053482
+2018/04/17 17:40:27 time difference between 217 --> 218 2
+2018/04/17 17:40:27 Distance between  218 --> 219 0.009247284814460577
+2018/04/17 17:40:27 time difference between 218 --> 219 2
+2018/04/17 17:40:27 Distance between  219 --> 220 0.0944683352985004
+2018/04/17 17:40:27 time difference between 219 --> 220 16
+2018/04/17 17:40:27 Distance between  220 --> 221 0.018497879717235044
+2018/04/17 17:40:27 time difference between 220 --> 221 6
+2018/04/17 17:40:27 Distance between  221 --> 222 0.003439333572160752
+2018/04/17 17:40:27 time difference between 221 --> 222 14
+2018/04/17 17:40:27 Distance between  222 --> 223 0
+2018/04/17 17:40:27 time difference between 222 --> 223 3
+2018/04/17 17:40:27 Distance between  223 --> 224 0.00837754621647313
+2018/04/17 17:40:27 time difference between 223 --> 224 20
+2018/04/17 17:40:27 Distance between  224 --> 225 0.004391247581924995
+2018/04/17 17:40:27 time difference between 224 --> 225 2
+2018/04/17 17:40:27 Distance between  225 --> 226 0.019622012001719535
+2018/04/17 17:40:27 time difference between 225 --> 226 9
