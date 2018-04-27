@@ -48,39 +48,10 @@ func ProcessInfo(fileName string) {
 	}
 	log.Println("Input Data is updated and saved in optimized_points.csv")
 	return
+
+	//Spliting the  New  waypoints into set of 23 Waypoints from source to destination
+	// and combining result of all the   set to single route
 }
-
-//func OptimizeRoute(coOrdinates []utils.Coordinates) {
-//	points := make([]string, len(coOrdinates))
-//	for i := 0; i < len(coOrdinates); i++ {
-//		points[i] = fmt.Sprintf("%.10f,%.10f", coOrdinates[i].Latitude, coOrdinates[i].Longitude)
-//	}
-
-//	routeMap := make(map[string][]maps.Route)
-
-//	// here we are splitting the total waypoints multiple chunks
-//	// each chunk will have 23 waypoints including source and destination
-//	i := 0
-//	for i < len(points) {
-//		source := points[i]
-//		var destination string
-//		var waypoints []string
-
-//		if i+22 < len(points) {
-//			destination = points[i+22]
-//			waypoints = points[i+1 : i+21]
-//		} else {
-//			destination = points[len(points)-1]
-//			waypoints = points[i+1:]
-//		}
-//		i = i + 22
-
-//		route := getRoute(source, destination, waypoints)
-//		routeMap[fmt.Sprintf("%s,%s", source, destination)] = route
-//		pretty.Println(routeMap)
-//	}
-
-//}
 
 // OPtimizeRoute uses the distance of concurrent three  coordinates  and checks it with
 //The flight distance  and find the   ambigous coordinates
