@@ -4,13 +4,13 @@
 In this optmizing the routes between the source and destination using list of 
 coordinates as input 
 
-Set of  23 Waypoints from Source to Destination is  used as input   external library google direction api(https://github.com/googlemaps/google-maps-services-go) 
+Set of  23 Waypoints from Source to Destination is  used as  input to the   external library api google direction (https://github.com/googlemaps/google-maps-services-go) 
 
 
-The Optimized route method Removes the ambigious coordinates and creates the 
+The Optimized route method removes the ambigious coordinates and creates the 
  data which is saved in optimized_points.csv 
 
-TODO: Implemention of Recurisive logic  to remove the  ambigious coordinates and loop in route
+TODO: Implemention of Recurisive logic  to remove the  ambigious coordinates to avoid loops in the route
 Combining the result of  all the sets  form a single route 
  
 
