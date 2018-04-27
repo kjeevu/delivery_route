@@ -6,11 +6,11 @@ coordinates as input
 
 Used external library which google direction api(https://github.com/googlemaps/google-maps-services-go)
 
-right now splitting the routes according to limits, for every request we get the optimized route for 23 points
+The Optimized route method Removes the ambigious coordinates and creates the 
+ data which is saved in optimized_points.csv 
 
-TODO: merge all the splitted routes and make single optimized route and
-Logic to remove  erroneous/ambiguous coordinates needs to be revisited
-Implemetion of Custom Erors
+TODO: Implemention of Recurisive logic  to remove the  ambigious coordinates 
+
 
 Usage:
 

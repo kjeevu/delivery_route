@@ -72,7 +72,7 @@ func GetRadians(degree float64) float64 {
 	return degree * math.Pi / 180
 }
 func WriteCSV(coOrdinates []Coordinates) (err error) {
-	file, err := os.Create("updated_points.csv")
+	file, err := os.Create("optimized_points.csv")
 	if err != nil {
 		err = errors.New("UnableToCreateOutputFile")
 		return
