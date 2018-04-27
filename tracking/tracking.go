@@ -46,7 +46,7 @@ func ProcessInfo(fileName string) {
 		log.Println(err)
 		return
 	}
-	log.Println("Data is updated with New Route")
+	log.Println("Input Data is updated and saved in optimized_points.csv")
 	return
 }
 
