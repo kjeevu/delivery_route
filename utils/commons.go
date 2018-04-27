@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"encoding/csv"
 	"errors"
+	"fmt"
 	"io"
 	"math"
 	"os"
@@ -69,4 +70,24 @@ func GetDistance(lat1, lat2, long1, long2 float64) float64 {
 //To find Radian from degree
 func GetRadians(degree float64) float64 {
 	return degree * math.Pi / 180
+}
+func WriteCSV(coOrdinates []Coordinates) (err error) {
+	file, err := os.Create("updated_points.csv")
+	if err != nil {
+		err = errors.New("UnableToCreateOutputFile")
+		return
+	}
+	defer file.Close()
+	//data := make([]string, len(coOrdinates))
+	writer := csv.NewWriter(file)
+	defer writer.Flush()
+	for i := 0; i < len(coOrdinates); i++ {
+		line := []string{fmt.Sprintf("%.10f", coOrdinates[i].Latitude), fmt.Sprintf("%.10f", coOrdinates[i].Longitude), fmt.Sprintf("%d", coOrdinates[i].TimeStamp)}
+		err = writer.Write(line)
+		if err != nil {
+			err = errors.New("UnableToWriteFile")
+			return
+		}
+	}
+	return
 }
